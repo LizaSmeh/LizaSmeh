@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Лиза! 👋</h1>
+<!-- <h1 align="center">Привет, я Лиза! 👋</h1>
 
 <p align="center">
   💻 Frontend-разработчик<br>
@@ -37,7 +37,7 @@
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ---
-
+комментарий -->
 ### 🧰 Мои проекты:
 
 - 🎮 [Игра «Виселица»](https://lizasmeh.github.io/hangman-game/) | [GH - репозиторий](https://github.com/LizaSmeh/hangman-game)
@@ -53,12 +53,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lizsurprise)
 
 ---
-
-<details>
-<summary>😄 Немного обо мне</summary>
-
-- 🎓 Учусь и развиваюсь в сфере веб-разработки
-- 🎧 Люблю музыку, дизайн и красивый код
-- 🐱 Обожаю котиков и тёмную тему в редакторах
-- ☕️ Верю, что хороший код начинается с хорошего кофе
-</details>
